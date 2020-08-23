@@ -14,7 +14,7 @@ https://www.leconomiste.com/archives/all
 ### Run
 
 ```
-git clone
+git clone https://github.com/mpalashb/leconomiste_com_pro
 cd leconomiste_com_pro
 scrapy crawl leconomiste -o out.csv
 ```
